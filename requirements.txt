@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.25.0
 pandas
-sqlite3-binary
+numpy
 plotly
-bcrypt
+matplotlib
